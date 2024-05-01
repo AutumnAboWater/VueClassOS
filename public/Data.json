@@ -1,0 +1,150 @@
+{
+  "userData": [
+    {
+      "id": "admin",
+      "userName": "admin",
+<<<<<<< HEAD
+      "userPassWord": "admin"
+=======
+      "userPassWord": "admin",
+      "userGander": "小帅哥"
+>>>>>>> 4ddbf2b (提交代码)
+    },
+    {
+      "id": "2",
+      "userName": "admin",
+<<<<<<< HEAD
+      "userPassWord": "123"
+=======
+      "userPassWord": "123",
+      "userGander": "小帅哥"
+>>>>>>> 4ddbf2b (提交代码)
+    },
+    {
+      "id": "123456",
+      "userName": "123456",
+<<<<<<< HEAD
+      "userPassWord": "123456"
+=======
+      "userPassWord": "123456",
+      "userGander": "小帅哥"
+    },
+    {
+      "id": "132456",
+      "userName": "123456",
+      "userPassWord": "123456",
+      "userGander": "小帅哥"
+    },
+    {
+      "id": "12345678",
+      "userName": "123456789",
+      "userPassWord": "123456789",
+      "userGender": ""
+    },
+    {
+      "id": "ctmd",
+      "userName": "ctmd",
+      "userPassWord": "ctmd",
+      "userGender": "小帅哥"
+    }
+  ],
+  "tableData": [
+    {
+      "id": "2",
+      "course": "操作系统",
+      "name": "刘志东",
+      "address": "时金楼",
+      "time": "星期二 3-4节",
+      "grade": "10"
+    },
+    {
+      "id": "3",
+      "course": "软件测试",
+      "name": "付丽方",
+      "address": "资讯楼",
+      "time": "星期二 3-4节",
+      "grade": "10"
+    },
+    {
+      "id": "4",
+      "course": "Web前端",
+      "name": "李思佳",
+      "address": "资讯楼",
+      "time": "星期三 1-2节",
+      "grade": "10"
+    },
+    {
+      "id": "5",
+      "course": "Java程序设计",
+      "name": "朱强",
+      "address": "资讯楼",
+      "time": "星期二 5-8节",
+      "grade": "10"
+    },
+    {
+      "id": "6",
+      "course": "Python程序设计",
+      "name": "郭迪",
+      "address": "资讯楼",
+      "time": "星期四 5-6节",
+      "grade": "10"
+    },
+    {
+      "id": "7",
+      "course": "数据结构",
+      "name": "徐志强",
+      "address": "时金楼",
+      "time": "星期五 1-4节",
+      "grade": "10"
+    },
+    {
+      "id": "8",
+      "course": "Linux",
+      "name": "赵晨言",
+      "address": "资讯楼",
+      "time": "星期五 7-8节",
+      "grade": "10"
+    },
+    {
+      "course": "测试课程1",
+      "name": "测试老师1",
+      "address": "测试上课地点1",
+      "time": "测试上课时间1",
+      "grade": "测试学分1",
+      "id": "Dzy87ti"
+    },
+    {
+      "course": "123456",
+      "name": "123456",
+      "address": "789//",
+      "time": "123456",
+      "grade": "123456",
+      "id": "pAwewak"
+    },
+    {
+      "course": "123456",
+      "name": "123456",
+      "address": "1231456",
+      "time": "123456",
+      "grade": "123456SDASD",
+      "id": "yDSI_7F"
+    },
+    {
+      "course": "1",
+      "name": "1",
+      "address": "1",
+      "time": "1",
+      "grade": "1",
+      "id": "5qR3vRn"
+    },
+    {
+      "course": "王进科",
+      "name": "王进科",
+      "address": "王进科",
+      "time": "王进科",
+      "grade": "王进科",
+      "id": "7DS5dcY"
+>>>>>>> 4ddbf2b (提交代码)
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+@import './base.css';
+
+#app{
+    position: fixed;
+    background: url(https://baotangguo.cn:8081/) no-repeat center fixed;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center center;
+
+}
