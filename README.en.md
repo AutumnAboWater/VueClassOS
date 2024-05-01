@@ -1,36 +1,16 @@
-# Vue3课程管理系统
+# Vue3😀
+Vue3+Element-Plus+Vite+Json-Server
+## Implemented course management system 📕
+### The front-end mainly uses Vue3+Element+Plus+Vie to build projects 🐮
+### Use virtualized backend Json-Server to simulate data 😶
+### The background image calls the Microsoft Bing Daily Image as the background 🏝
 
-#### Description
-基于Vue3的课程管理系统
-
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+# Deploy Local/Quick Start/Install Start
+*1. Download or git clone project
+* 2.cd to-be-number-one-master
+* 3.npm i install dependencies
+* 4.cd public npm install -g json-server to install the json-server plugin
+* 5.cd public json-server Data.json run virtual data
+* 6.npm run dev to run the project
+* 7. http://localhost:5173/ Open the test
+  8. Test Default Username: admin Password: Admin
