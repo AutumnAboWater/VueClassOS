@@ -1,37 +1,16 @@
-# Vue3课程管理系统
+# Vue3😀
+Vue3+Element-Plus+Vite+Json-Server
+## 实现的课程管理系统📕
+### 前端主要使用Vue3+Element+Plus+Vie构建项目🐮
+### 使用虚拟化后端Json-Server模拟数据😶
+### 背景图调用微软Bing每日一图作为背景🏝
 
-#### 介绍
-基于Vue3的课程管理系统
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+# 部署本地/快速开始/安装起步
+* 1.下载或git clone项目
+* 2.cd to-be-number-one-master
+* 3.npm i 安装依赖
+* 4.cd public  npm install -g json-server 安装json-server插件
+* 5.cd public json-server Data.json 运行虚拟数据
+* 6.npm run dev 运行项目
+* 7. http://localhost:5173/ 打开测试
+  8. 测试默认用户名：admin 密码：admin
